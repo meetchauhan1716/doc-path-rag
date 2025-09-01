@@ -1,3 +1,5 @@
+<img src="images/generated-image.png" alt="Project Overview" style="border-radius: 16px;">
+
 # Project Overview: doc-path-rag
 
 This project implements a **Retrieval-Augmented Generation (RAG)** system for software documentation using markdown files. It leverages **ChromaDB** for vector storage and retrieval, and integrates with **Ollama** models for embeddings and LLM responses.
