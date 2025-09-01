@@ -1,0 +1,453 @@
+=== MARKDOWN FILES FOUND ===
+
+Total files: 112
+==================================================
+
+  1. platform_overview.md
+     Full path: ./data/platform_overview.md
+     Size: 5,683 bytes
+
+  2. blueprint.md
+     Full path: ./data/blueprint.md
+     Size: 4,945 bytes
+
+  3. external_api_gateway/controls.md
+     Full path: ./data/external_api_gateway/controls.md
+     Size: 5,773 bytes
+
+  4. external_api_gateway/gaps.md
+     Full path: ./data/external_api_gateway/gaps.md
+     Size: 245 bytes
+
+  5. external_api_gateway/requirements.md
+     Full path: ./data/external_api_gateway/requirements.md
+     Size: 8,440 bytes
+
+  6. external_api_gateway/interfaces.md
+     Full path: ./data/external_api_gateway/interfaces.md
+     Size: 10,908 bytes
+
+  7. external_api_gateway/functional.md
+     Full path: ./data/external_api_gateway/functional.md
+     Size: 8,347 bytes
+
+  8. external_api_gateway/README.md
+     Full path: ./data/external_api_gateway/README.md
+     Size: 1,639 bytes
+
+  9. external_api_gateway/implementation/cloudflare-tunnel-guide.md
+     Full path: ./data/external_api_gateway/implementation/cloudflare-tunnel-guide.md
+     Size: 6,412 bytes
+
+ 10. external_api_gateway/implementation/README.md
+     Full path: ./data/external_api_gateway/implementation/README.md
+     Size: 13,363 bytes
+
+ 11. orchestration/controls.md
+     Full path: ./data/orchestration/controls.md
+     Size: 1,578 bytes
+
+ 12. orchestration/gaps.md
+     Full path: ./data/orchestration/gaps.md
+     Size: 251 bytes
+
+ 13. orchestration/requirements.md
+     Full path: ./data/orchestration/requirements.md
+     Size: 0 bytes
+
+ 14. orchestration/roadmap.md
+     Full path: ./data/orchestration/roadmap.md
+     Size: 1,119 bytes
+
+ 15. orchestration/interfaces.md
+     Full path: ./data/orchestration/interfaces.md
+     Size: 0 bytes
+
+ 16. orchestration/functional.md
+     Full path: ./data/orchestration/functional.md
+     Size: 4,295 bytes
+
+ 17. orchestration/README.md
+     Full path: ./data/orchestration/README.md
+     Size: 961 bytes
+
+ 18. orchestration/implementation/README.md
+     Full path: ./data/orchestration/implementation/README.md
+     Size: 4,308 bytes
+
+ 19. sms_service/controls.md
+     Full path: ./data/sms_service/controls.md
+     Size: 126 bytes
+
+ 20. sms_service/gaps.md
+     Full path: ./data/sms_service/gaps.md
+     Size: 435 bytes
+
+ 21. sms_service/requirements.md
+     Full path: ./data/sms_service/requirements.md
+     Size: 0 bytes
+
+ 22. sms_service/interfaces.md
+     Full path: ./data/sms_service/interfaces.md
+     Size: 0 bytes
+
+ 23. sms_service/functional.md
+     Full path: ./data/sms_service/functional.md
+     Size: 259 bytes
+
+ 24. sms_service/README.md
+     Full path: ./data/sms_service/README.md
+     Size: 696 bytes
+
+ 25. sms_service/implementation/apis.md
+     Full path: ./data/sms_service/implementation/apis.md
+     Size: 899 bytes
+
+ 26. sms_service/implementation/README.md
+     Full path: ./data/sms_service/implementation/README.md
+     Size: 2,625 bytes
+
+ 27. internal_api_gateway/controls.md
+     Full path: ./data/internal_api_gateway/controls.md
+     Size: 1,500 bytes
+
+ 28. internal_api_gateway/gaps.md
+     Full path: ./data/internal_api_gateway/gaps.md
+     Size: 1,295 bytes
+
+ 29. internal_api_gateway/requirements.md
+     Full path: ./data/internal_api_gateway/requirements.md
+     Size: 1,716 bytes
+
+ 30. internal_api_gateway/interfaces.md
+     Full path: ./data/internal_api_gateway/interfaces.md
+     Size: 1,470 bytes
+
+ 31. internal_api_gateway/functional.md
+     Full path: ./data/internal_api_gateway/functional.md
+     Size: 1,283 bytes
+
+ 32. internal_api_gateway/README.md
+     Full path: ./data/internal_api_gateway/README.md
+     Size: 1,364 bytes
+
+ 33. internal_api_gateway/implementation/security-policy-example.md
+     Full path: ./data/internal_api_gateway/implementation/security-policy-example.md
+     Size: 2,361 bytes
+
+ 34. internal_api_gateway/implementation/tls-management.md
+     Full path: ./data/internal_api_gateway/implementation/tls-management.md
+     Size: 1,494 bytes
+
+ 35. internal_api_gateway/implementation/README.md
+     Full path: ./data/internal_api_gateway/implementation/README.md
+     Size: 1,974 bytes
+
+ 36. identity_broker/controls.md
+     Full path: ./data/identity_broker/controls.md
+     Size: 6,209 bytes
+
+ 37. identity_broker/gaps.md
+     Full path: ./data/identity_broker/gaps.md
+     Size: 299 bytes
+
+ 38. identity_broker/requirements.md
+     Full path: ./data/identity_broker/requirements.md
+     Size: 0 bytes
+
+ 39. identity_broker/interfaces.md
+     Full path: ./data/identity_broker/interfaces.md
+     Size: 0 bytes
+
+ 40. identity_broker/functional.md
+     Full path: ./data/identity_broker/functional.md
+     Size: 14,421 bytes
+
+ 41. identity_broker/README.md
+     Full path: ./data/identity_broker/README.md
+     Size: 1,251 bytes
+
+ 42. identity_broker/implementation/apis.md
+     Full path: ./data/identity_broker/implementation/apis.md
+     Size: 8,618 bytes
+
+ 43. identity_broker/implementation/configuration.md
+     Full path: ./data/identity_broker/implementation/configuration.md
+     Size: 2,908 bytes
+
+ 44. identity_broker/implementation/schemas.md
+     Full path: ./data/identity_broker/implementation/schemas.md
+     Size: 4,060 bytes
+
+ 45. identity_broker/implementation/protocols.md
+     Full path: ./data/identity_broker/implementation/protocols.md
+     Size: 2,516 bytes
+
+ 46. identity_broker/implementation/architecture.md
+     Full path: ./data/identity_broker/implementation/architecture.md
+     Size: 2,121 bytes
+
+ 47. identity_broker/implementation/README.md
+     Full path: ./data/identity_broker/implementation/README.md
+     Size: 808 bytes
+
+ 48. identity_confluence/controls.md
+     Full path: ./data/identity_confluence/controls.md
+     Size: 142 bytes
+
+ 49. identity_confluence/gaps.md
+     Full path: ./data/identity_confluence/gaps.md
+     Size: 451 bytes
+
+ 50. identity_confluence/requirements.md
+     Full path: ./data/identity_confluence/requirements.md
+     Size: 0 bytes
+
+ 51. identity_confluence/interfaces.md
+     Full path: ./data/identity_confluence/interfaces.md
+     Size: 0 bytes
+
+ 52. identity_confluence/functional.md
+     Full path: ./data/identity_confluence/functional.md
+     Size: 2,650 bytes
+
+ 53. identity_confluence/README.md
+     Full path: ./data/identity_confluence/README.md
+     Size: 725 bytes
+
+ 54. identity_confluence/implementation/apis.md
+     Full path: ./data/identity_confluence/implementation/apis.md
+     Size: 5,060 bytes
+
+ 55. identity_confluence/implementation/README.md
+     Full path: ./data/identity_confluence/implementation/README.md
+     Size: 2,083 bytes
+
+ 56. notification_service/controls.md
+     Full path: ./data/notification_service/controls.md
+     Size: 135 bytes
+
+ 57. notification_service/gaps.md
+     Full path: ./data/notification_service/gaps.md
+     Size: 453 bytes
+
+ 58. notification_service/requirements.md
+     Full path: ./data/notification_service/requirements.md
+     Size: 0 bytes
+
+ 59. notification_service/interfaces.md
+     Full path: ./data/notification_service/interfaces.md
+     Size: 0 bytes
+
+ 60. notification_service/functional.md
+     Full path: ./data/notification_service/functional.md
+     Size: 330 bytes
+
+ 61. notification_service/README.md
+     Full path: ./data/notification_service/README.md
+     Size: 858 bytes
+
+ 62. notification_service/implementation/apis.md
+     Full path: ./data/notification_service/implementation/apis.md
+     Size: 984 bytes
+
+ 63. notification_service/implementation/README.md
+     Full path: ./data/notification_service/implementation/README.md
+     Size: 2,323 bytes
+
+ 64. _config/glossary.md
+     Full path: ./data/_config/glossary.md
+     Size: 5,989 bytes
+
+ 65. _config/decisions/adr-003-external-api-gateway-selection.md
+     Full path: ./data/_config/decisions/adr-003-external-api-gateway-selection.md
+     Size: 7,660 bytes
+
+ 66. _config/decisions/adr-004-on-prem-load-balancer-selection.md
+     Full path: ./data/_config/decisions/adr-004-on-prem-load-balancer-selection.md
+     Size: 7,192 bytes
+
+ 67. _config/decisions/template.md
+     Full path: ./data/_config/decisions/template.md
+     Size: 880 bytes
+
+ 68. _config/decisions/adr-002-internal-api-gateway-selection.md
+     Full path: ./data/_config/decisions/adr-002-internal-api-gateway-selection.md
+     Size: 6,842 bytes
+
+ 69. _config/decisions/adr-001-dual-authentication-model.md
+     Full path: ./data/_config/decisions/adr-001-dual-authentication-model.md
+     Size: 2,115 bytes
+
+ 70. app_store/controls.md
+     Full path: ./data/app_store/controls.md
+     Size: 124 bytes
+
+ 71. app_store/gaps.md
+     Full path: ./data/app_store/gaps.md
+     Size: 415 bytes
+
+ 72. app_store/requirements.md
+     Full path: ./data/app_store/requirements.md
+     Size: 0 bytes
+
+ 73. app_store/interfaces.md
+     Full path: ./data/app_store/interfaces.md
+     Size: 0 bytes
+
+ 74. app_store/functional.md
+     Full path: ./data/app_store/functional.md
+     Size: 959 bytes
+
+ 75. app_store/README.md
+     Full path: ./data/app_store/README.md
+     Size: 686 bytes
+
+ 76. app_store/implementation/apis.md
+     Full path: ./data/app_store/implementation/apis.md
+     Size: 947 bytes
+
+ 77. app_store/implementation/README.md
+     Full path: ./data/app_store/implementation/README.md
+     Size: 1,378 bytes
+
+ 78. admin_panel/controls.md
+     Full path: ./data/admin_panel/controls.md
+     Size: 1,565 bytes
+
+ 79. admin_panel/gaps.md
+     Full path: ./data/admin_panel/gaps.md
+     Size: 672 bytes
+
+ 80. admin_panel/requirements.md
+     Full path: ./data/admin_panel/requirements.md
+     Size: 0 bytes
+
+ 81. admin_panel/interfaces.md
+     Full path: ./data/admin_panel/interfaces.md
+     Size: 925 bytes
+
+ 82. admin_panel/functional.md
+     Full path: ./data/admin_panel/functional.md
+     Size: 3,660 bytes
+
+ 83. admin_panel/README.md
+     Full path: ./data/admin_panel/README.md
+     Size: 950 bytes
+
+ 84. admin_panel/implementation/apis.md
+     Full path: ./data/admin_panel/implementation/apis.md
+     Size: 4,595 bytes
+
+ 85. admin_panel/implementation/ui.md
+     Full path: ./data/admin_panel/implementation/ui.md
+     Size: 1,735 bytes
+
+ 86. admin_panel/implementation/README.md
+     Full path: ./data/admin_panel/implementation/README.md
+     Size: 3,375 bytes
+
+ 87. email_service/controls.md
+     Full path: ./data/email_service/controls.md
+     Size: 1,455 bytes
+
+ 88. email_service/gaps.md
+     Full path: ./data/email_service/gaps.md
+     Size: 227 bytes
+
+ 89. email_service/requirements.md
+     Full path: ./data/email_service/requirements.md
+     Size: 0 bytes
+
+ 90. email_service/interfaces.md
+     Full path: ./data/email_service/interfaces.md
+     Size: 1,876 bytes
+
+ 91. email_service/functional.md
+     Full path: ./data/email_service/functional.md
+     Size: 917 bytes
+
+ 92. email_service/README.md
+     Full path: ./data/email_service/README.md
+     Size: 984 bytes
+
+ 93. email_service/implementation/README.md
+     Full path: ./data/email_service/implementation/README.md
+     Size: 2,859 bytes
+
+ 94. iga_connect/controls.md
+     Full path: ./data/iga_connect/controls.md
+     Size: 968 bytes
+
+ 95. iga_connect/gaps.md
+     Full path: ./data/iga_connect/gaps.md
+     Size: 201 bytes
+
+ 96. iga_connect/requirements.md
+     Full path: ./data/iga_connect/requirements.md
+     Size: 0 bytes
+
+ 97. iga_connect/interfaces.md
+     Full path: ./data/iga_connect/interfaces.md
+     Size: 882 bytes
+
+ 98. iga_connect/functional.md
+     Full path: ./data/iga_connect/functional.md
+     Size: 3,348 bytes
+
+ 99. iga_connect/README.md
+     Full path: ./data/iga_connect/README.md
+     Size: 1,106 bytes
+
+100. iga_connect/implementation/apis.md
+     Full path: ./data/iga_connect/implementation/apis.md
+     Size: 8,254 bytes
+
+101. iga_connect/implementation/architecture-overview.md
+     Full path: ./data/iga_connect/implementation/architecture-overview.md
+     Size: 4,353 bytes
+
+102. iga_connect/implementation/scim-developer-guide.md
+     Full path: ./data/iga_connect/implementation/scim-developer-guide.md
+     Size: 7,514 bytes
+
+103. iga_connect/implementation/scim-extensions-guide.md
+     Full path: ./data/iga_connect/implementation/scim-extensions-guide.md
+     Size: 3,564 bytes
+
+104. iga_connect/implementation/scim_core_attributes.md
+     Full path: ./data/iga_connect/implementation/scim_core_attributes.md
+     Size: 5,284 bytes
+
+105. iga_connect/implementation/README.md
+     Full path: ./data/iga_connect/implementation/README.md
+     Size: 475 bytes
+
+106. configuration_service/controls.md
+     Full path: ./data/configuration_service/controls.md
+     Size: 2,029 bytes
+
+107. configuration_service/gaps.md
+     Full path: ./data/configuration_service/gaps.md
+     Size: 251 bytes
+
+108. configuration_service/requirements.md
+     Full path: ./data/configuration_service/requirements.md
+     Size: 0 bytes
+
+109. configuration_service/interfaces.md
+     Full path: ./data/configuration_service/interfaces.md
+     Size: 0 bytes
+
+110. configuration_service/functional.md
+     Full path: ./data/configuration_service/functional.md
+     Size: 5,837 bytes
+
+111. configuration_service/README.md
+     Full path: ./data/configuration_service/README.md
+     Size: 729 bytes
+
+112. configuration_service/implementation/README.md
+     Full path: ./data/configuration_service/implementation/README.md
+     Size: 4,647 bytes
+

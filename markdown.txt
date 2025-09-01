@@ -1,0 +1,205 @@
+=== MARKDOWN CHUNKING RESULTS ===
+
+Total chunks: 4
+==================================================
+
+CHUNK 1
+--------------------
+METADATA:
+  Header 1: Functional Specification
+  chunk_id: 65f80574-5dba-4f53-8b84-f1008196d26d
+  chunk_index: 0
+  source_file: _functional.md
+  file_path: ./data/app_store/_functional.md
+  chunk_length: 110
+  word_count: 15
+  line_count: 2
+  non_empty_lines: 2
+  sentence_count: 1
+  avg_words_per_sentence: 15.0
+  header_path: Functional Specification
+  header_depth: 1
+  max_header_level: 1
+  min_header_level: 1
+  section_hierarchy: {1: 'Functional Specification'}
+  content_types: ['text']
+  has_code: False
+  has_links: False
+  has_images: False
+  has_tables: False
+  has_lists: False
+  code_blocks_count: 0
+  inline_code_count: 0
+  links_count: 0
+  images_count: 0
+  table_rows_estimate: 0
+  list_items_count: 0
+  is_first_chunk: True
+  is_last_chunk: False
+  prev_chunk_id: None
+  next_chunk_id: 2a30215b-0777-4b7d-9537-ea41454c4439
+  content_density: 7.5
+  complexity_score: 0.5
+  keywords_estimate: 7
+  potential_entities: ['Functional', 'Specification', 'This', 'App']
+  processing_timestamp: 1755502979.0
+  file_size_bytes: 959
+
+CONTENT:
+# Functional Specification  
+This document outlines the functional requirements and behavior of the App Store.
+==================================================
+
+CHUNK 2
+--------------------
+METADATA:
+  Header 1: Functional Specification
+  Header 2: Core Features
+  Header 3: Product Catalog
+  chunk_id: 2a30215b-0777-4b7d-9537-ea41454c4439
+  chunk_index: 1
+  source_file: _functional.md
+  file_path: ./data/app_store/_functional.md
+  chunk_length: 148
+  word_count: 23
+  line_count: 3
+  non_empty_lines: 3
+  sentence_count: 1
+  avg_words_per_sentence: 23.0
+  header_path: Functional Specification > Core Features > Product Catalog
+  header_depth: 3
+  max_header_level: 3
+  min_header_level: 1
+  section_hierarchy: {1: 'Functional Specification', 2: 'Core Features', 3: 'Product Catalog'}
+  content_types: ['text']
+  has_code: False
+  has_links: False
+  has_images: False
+  has_tables: False
+  has_lists: False
+  code_blocks_count: 0
+  inline_code_count: 0
+  links_count: 0
+  images_count: 0
+  table_rows_estimate: 0
+  list_items_count: 0
+  is_first_chunk: False
+  is_last_chunk: False
+  prev_chunk_id: 65f80574-5dba-4f53-8b84-f1008196d26d
+  next_chunk_id: cb182541-3056-4604-b79e-3b08621893b6
+  content_density: 7.67
+  complexity_score: 1.0999999999999999
+  keywords_estimate: 13
+  potential_entities: ['Core', 'Features', 'Product', 'Catalog', 'InvinSense']
+  processing_timestamp: 1755502979.0
+  file_size_bytes: 959
+
+CONTENT:
+## Core Features  
+### Product Catalog  
+A complete and searchable listing of all available InvinSense products that a user is authorized to access.
+==================================================
+
+CHUNK 3
+--------------------
+METADATA:
+  Header 1: Functional Specification
+  Header 2: Core Features
+  Header 3: Productivity Tools
+  chunk_id: cb182541-3056-4604-b79e-3b08621893b6
+  chunk_index: 2
+  source_file: _functional.md
+  file_path: ./data/app_store/_functional.md
+  chunk_length: 463
+  word_count: 66
+  line_count: 8
+  non_empty_lines: 8
+  sentence_count: 7
+  avg_words_per_sentence: 9.43
+  header_path: Functional Specification > Core Features > Productivity Tools
+  header_depth: 3
+  max_header_level: 3
+  min_header_level: 1
+  section_hierarchy: {1: 'Functional Specification', 2: 'Core Features', 3: 'Productivity Tools'}
+  content_types: ['lists']
+  has_code: False
+  has_links: False
+  has_images: False
+  has_tables: False
+  has_lists: True
+  code_blocks_count: 0
+  inline_code_count: 0
+  links_count: 0
+  images_count: 0
+  table_rows_estimate: 0
+  list_items_count: 7
+  is_first_chunk: False
+  is_last_chunk: False
+  prev_chunk_id: 2a30215b-0777-4b7d-9537-ea41454c4439
+  next_chunk_id: ff94ed38-5d3b-4b29-ac74-b2366b2c3621
+  content_density: 8.25
+  complexity_score: 1.0999999999999999
+  keywords_estimate: 21
+  potential_entities: ['Productivity', 'Tools', 'Integration', 'Contextual', 'Direct', 'Base']
+  processing_timestamp: 1755502979.0
+  file_size_bytes: 959
+
+CONTENT:
+### Productivity Tools  
+- **TODOs and Tasks**: A personal task management system.
+- **Notifications**: A centralized hub for all platform-related notifications.
+- **Calendar**: Integration with user calendars.
+- **Tips and Guidance**: Contextual help and tips for using the platform.
+- **Help and Support**: Direct access to the support portal.
+- **Knowledge Base (KB)**: A searchable repository of articles and guides.
+- **Notes**: A simple note-taking utility.
+==================================================
+
+CHUNK 4
+--------------------
+METADATA:
+  Header 1: Functional Specification
+  Header 2: User Flow
+  chunk_id: ff94ed38-5d3b-4b29-ac74-b2366b2c3621
+  chunk_index: 3
+  source_file: _functional.md
+  file_path: ./data/app_store/_functional.md
+  chunk_length: 236
+  word_count: 30
+  line_count: 2
+  non_empty_lines: 2
+  sentence_count: 3
+  avg_words_per_sentence: 10.0
+  header_path: Functional Specification > User Flow
+  header_depth: 2
+  max_header_level: 2
+  min_header_level: 1
+  section_hierarchy: {1: 'Functional Specification', 2: 'User Flow'}
+  content_types: ['text']
+  has_code: False
+  has_links: False
+  has_images: False
+  has_tables: False
+  has_lists: False
+  code_blocks_count: 0
+  inline_code_count: 0
+  links_count: 0
+  images_count: 0
+  table_rows_estimate: 0
+  list_items_count: 0
+  is_first_chunk: False
+  is_last_chunk: True
+  prev_chunk_id: cb182541-3056-4604-b79e-3b08621893b6
+  next_chunk_id: None
+  content_density: 15.0
+  complexity_score: 0.8
+  keywords_estimate: 14
+  potential_entities: ['User', 'Flow', 'Users', 'Launcher', 'Based']
+  processing_timestamp: 1755502979.0
+  file_size_bytes: 959
+
+CONTENT:
+## User Flow  
+Users must first access the Launcher to use any product on the platform. Based on their product selection, the [[external_api_gateway/README.md#external-api-gateway]] service redirects them to the appropriate application.
+==================================================
+

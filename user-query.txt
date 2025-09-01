@@ -1,0 +1,13 @@
+USER PROMPT
+
+1. what are the vision and benifits of buisness?
+
+2. provide me message format of sms service apis.     what is message format of sms service apis?
+
+3. API security of admin panel security
+
+4. Compliance and Monitoring of admin panel
+
+5. Product Catalog of Core Features of Functional specification in app store    -    App Store functional specification Productivity Tools
+
+6. NATS Jetstream Consumer of Inbound email service interface
